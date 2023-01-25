@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Harmonogram</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="zak_adka_twoje_wydarzenia_pobierz_dane">Zakładka Twoje Wydarzenia - pobierz dane</string>
+    <string name="dodaj_wydarzenie">Dodaj wydarzenie</string>
+    <string name="data_pocz_tkowa_dd_mm_rrrr">Data początkowa (dd/MM/rrrr)</string>
+    <string name="data_ko_cowa_dd_mm_rrrr">Data końcowa (dd/MM/rrrr)</string>
+    <string name="godzina_hh_mm_ss">Godzina (HH:MM:SS)</string>
+    <string name="autor">Autor</string>
+    <string name="nazwa_wydarzenia">Nazwa wydarzenia</string>
+    <string name="opis_wydarzenia">Opis wydarzenia</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="edytuj">Edytuj</string>
+</resources>
